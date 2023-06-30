@@ -9,16 +9,8 @@ h1 {
     text-align: center;
 }
 
-.row {
-    margin-bottom: 15px;
-  }
-  .row > div {
-    border: 2px solid black;
-    background-color: gray; /* gray */
-  }
-
 #box {
-    background-color: blue;
+    background-color: gray; /* gray */
     padding: 10px;
     border: 5px solid black;
     width: 300px;

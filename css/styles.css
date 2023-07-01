@@ -1,14 +1,14 @@
+/*** This is CSS stylesheet for Assignment Solution Module 2 - WvdH ***/
+
 /********** Base styles **********/
+
 * {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 10px;
+    box-sizing: border-box;
 }
 
 h1 {
+    margin-bottom: 30px;
     text-align: center;
-    font-weight: 500;
-    margin-bottom: 10px;
 }
 
 #box {
@@ -19,11 +19,11 @@ h1 {
     height: 200px;
     margin-top: 50px;
     overflow: auto;
-  }
+}
 
 #content {
     background-color: gray;
-  }  
+}  
 
 span {
     margin: 20px;
@@ -33,7 +33,7 @@ span {
     background-color: lightblue;
     border: 2px solid black;
     display: inline-block;
-  }
+}
     
 p {
   border: 5px solid black;
@@ -42,7 +42,7 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
+  font-family: Arial;
   color: white;
 }
 

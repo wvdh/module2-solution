@@ -20,10 +20,6 @@ p {
   color: black;
 }
 
-.sectionContent {
-  margin-top: 40px;
-} 
-
 .sectionTitle1 {
   position: absolute;
   width: 150px;
@@ -62,6 +58,11 @@ p {
   background-color: lightgreen;
   text-align: center;
 }
+
+.sectionContent {
+  margin-top: 40px;
+} 
+
 
 /********** Simple Responsive Framework **********/
 .row {
